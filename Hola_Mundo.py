@@ -10,7 +10,7 @@ print("Hola Python again, \nMi nombre es Edlin Salas")
 valor= True
 nombre= 'Paola'
 
-numero= 105
+numero= 100
 numero2= 10
 numero= 99
 numero2= 80
