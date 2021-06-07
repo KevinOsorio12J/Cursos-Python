@@ -9,11 +9,13 @@ print("Hola Python again, \nMi nombre es Edlin Salas")
 
 valor= True
 nombre= 'Paola'
+nombres= 'Osorio es guapo y hermoso'
 
-numero= 105
+numero= 100
 numero2= 10
 numero= 99
 numero2= 80
+numero3=12
 print(type(numero))
 print(type(nombre))
 print(type(numero2))
